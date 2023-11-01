@@ -1,0 +1,188 @@
+<!--Assignment_1: Use only HTML to create a biography page for your preferred athlete. -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Kobe Bryant</title>
+</head>
+<body> <center>
+    <font face="Roboto, sans-serif" size="3"> <!--Changing all font face in Roboto -->
+    <header>
+        <h1>Kobe Bryant</h1>
+    </header>
+    <table>
+        <tr>
+            <td><a href="#section1">Home ||</a></td>
+            <td><a href="#section2">National Team Career ||</a></td>
+            <td><a href="#section3">Hall of Fame ||</a></td>
+            <td><a href="#section4">Retirement ||</a></td>
+            <td><a href="#section5">Career Statistics ||</a></td>
+            <td><a href="#section6">References ||</a></td>
+            <td><a href="#section7">Contact Us ||</a></td>
+        </tr>
+    </table>
+    <section style="width:50%;">
+        <h2 id="section1">Introduction</h2>
+        <p style="line-height: 1.5"><strong>Kobe Bean Bryant</strong> (August 23, 1978 – January 26, 2020) was an American professional basketball player. A shooting guard, he spent his entire 20-year career with the Los Angeles Lakers in the National Basketball Association (NBA). Widely regarded as one of the <a href="https://bleacherreport.com/articles/1001723-kobe-bryant-is-the-greatest-basketball-player-of-all-time">greatest basketball players of all time,</a> Bryant won five NBA championships, was an 18-time All-Star, a 15-time member of the All-NBA Team, a 12-time member of the All-Defensive Team, the 2008 NBA Most Valuable Player (MVP), and a two-time NBA Finals MVP. Bryant also led the NBA in scoring twice, and ranks fourth in league all-time regular season and postseason scoring. He was posthumously voted into the Naismith Memorial Basketball Hall of Fame in 2020 and named to the NBA 75th Anniversary Team in 2021.<cite> (Wikipedia, 2023)</cite></p>
+        <img src="picture1.jpg" width="50%" alt="Kobe Bryant Profile">
+        <p>Source: Google images</p>
+    </section>
+
+    <section style="width:50%;">
+        <h2 id="section2">National Team Career</h2>
+        <p style="line-height: 1.5">Bryant declined to play in the 2000 Olympics because he was getting married in the off-season. He also decided not to play in the 2002 FIBA World Championship. Bryant was originally selected for the FIBA Americas Championship in 2003 but withdrew after undergoing arthroscopic shoulder and knee surgeries. In the following summer, he had to withdraw from the Olympic team because of his sexual assault case. Along with LeBron James, he was one of the first two players to be publicly named to the 2006–2008 U.S. preliminary roster in 2006 by Jerry Colangelo. However, he was once again sidelined after knee surgery and did not participate in the 2006 FIBA World Championship.<cite> (Wikipedia, 2023)</cite></p>
+        <img src="picture2.jpg" width="100%" alt="Kobe Bryant Career">
+        <p>Source: Google images</p>
+    </section>
+
+    <section style="width:50%;">
+        <h2 id="section3">Hall of Fame</h2>
+        <p style="line-height: 1.5">Kobe Bryant played 20 seasons for the Lakers. He averaged 25.0 points, 5.2 rebounds and 4.7 assists in 1,346 regular-season games. He was selected to play in 18 All-Star games. He won 1 MVP award, 2 Finals MVP awards and 5 NBA championships. He was inducted into the <a href="https://www.nba.com/halloffame/2020">Hall of Fame in 2020</a>.</p>
+        <img src="picture3.jpg" width="75%" alt="Kobe Bryant Career">
+        <p>Source: Google images</p>
+    </section>
+
+    <section style="width:50%;">
+        <h2 id="section4">Retirement</h2>
+        <p style="line-height: 1.5">After a 20-year career spent entirely with the Lakers, Kobe Bryant retired as the franchise career leader in points, games, minutes, and steals as well as total field goals, three-pointers, and free throws made.
+            On December 18, 2017 the Los Angeles Lakers retired both Kobe Bryant’s no. 8 and 24 jerseys in a ceremony at Staples Center.<cite>(Lakers Nation, 2023)</cite></p>
+    </section>
+
+    <section style="width:50%;">
+
+            <h2 id="section5">Career Statistics</h2>
+            <p style="line-height: 1.5">Kobe Bryant played 20 seasons for the Lakers. He averaged 25.0 points, 5.2 rebounds and 4.7 assists in 1,346 regular-season games. He was selected to play in 18 All-Star games. He won 1 MVP award, 2 Finals MVP awards and 5 NBA championships. He was inducted into the Hall of Fame in 2020.</p>
+            <p style="line-height: 1.5">The following data are the average statics for his last (5) years:</p>
+            
+    </section>
+        <table border="1" width="50%">
+            <thead>
+                <tr>
+                    <th>Year</th>
+                    <th>PPG</th>
+                    <th>RPG</th>
+                    <th>APG</th>
+                    <th>SPG</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr align="center">
+                    <td>2010-2011</td>
+                    <td>25.3</td>
+                    <td>5.1</td>
+                    <td>4.7</td>
+                    <td>1.2</td>
+                </tr>
+                <tr align="center">
+                    <td>2011-2012</td>
+                    <td>27.9</td>
+                    <td>5.4</td>
+                    <td>4.6</td>
+                    <td>1.2</td>
+                </tr>
+                <tr align="center">
+                    <td>2012-2013</td>
+                    <td>27.3</td>
+                    <td>5.6</td>
+                    <td>6.0</td>
+                    <td>1.4</td>
+                </tr>
+                <tr align="center">
+                    <td>2014-2015</td>
+                    <td>22.3</td>
+                    <td>5.7</td>
+                    <td>5.6</td>
+                    <td>1.3</td>
+                </tr>
+                <tr align="center">
+                    <td>2015-2016</td>
+                    <td>17.6</td>
+                    <td>3.7</td>
+                    <td>2.8</td>
+                    <td>0.9</td>
+                </tr>
+            </tbody>
+        </table>
+        <cite>(Statmuse, 2023)</cite>
+    </section>
+
+    <section style="width:50%;">
+        <h2 id="section6">References</h2>
+        <p>Lakers Nation. (n.d.). Kobe Bryant Biography|Life, Lakers Career and Legacy. Retrieved September 22, 2023, from <br>
+        <a href="https://lakersnation.com/kobe-bryant-biography-life-lakers-career-and-legacy/" target="_blank">https://lakersnation.com/kobe-bryant-biography-life-lakers-career-and-legacy/</a></p>
+        
+        <p>StatMuse. (2023). Kobe Bryant. Retrieved September 22, 2023, from<br>
+        <a href=" https://www.statmuse.com/nba/player/kobe-bryant-480" target="_blank"> https://www.statmuse.com/nba/player/kobe-bryant-480</a></p>
+        
+        <p style="line-height: 1.5">Wikimedia Foundation, Inc. (n.d). Kobe Bryant. Wikipedia. Retrieved September 22, 2023, from<br>
+        <a href="https://en.wikipedia.org/wiki/Kobe_Bryant" target="_blank">https://en.wikipedia.org/wiki/Kobe_Bryant</a></p>
+
+        <p style="line-height: 1.5">Wikimedia Foundation, Inc. (n.d). Kobe Bryant. Wikipedia. Retrieved September 22, 2023, from<br>
+        <a href="https://en.wikipedia.org/wiki/Kobe_Bryant#National_team_career" target="_blank">https://en.wikipedia.org/wiki/Kobe_Bryant#National_team_career</a></p>
+    </section>
+
+    <section style="width:50%;">
+        <br>
+        <h2 id="section7">Contact Us</h2>
+        <form action="mailto:r.calicdan891@mybvc.ca" method="post">
+            <fieldset style="width:50%;">
+                <legend>Contact Form</legend><br>
+                <table>
+                    <tr>
+                        <td><label for="idfirstname">First Name: </label></td>
+                        <td ><input type="text" id="idfirstname" name="firstname" required></td>
+                    </tr>
+                    <tr>
+                        <td><label for="idlastname">Last Name:</label></td>
+                        <td><input type="text" id="idlastname" name="lastname" required></td>
+                    </tr>
+                    <tr>
+                        <td>Gender:</td>
+                        
+                        <td><label for="idmale">Male</label>
+                        <input type="radio" id="idmale" name="gender" value="Male" required>
+                        <label for="idfemale">Female</label>
+                        <input type="radio" id="idfemale" name="gender" value="Female">
+                        </td>                  
+                    </tr>
+                    <tr>
+                        <td><label for="idcountry">Country:</label></td>
+                        <td>
+                            <select id="idcountry" name="country">
+                              <option value="Philippines">Philippines</option>
+                              <option value="Canada" selected>Canada</option>
+                              <option value="USA">USA</option>
+                              <option value="India">India</option>
+                              <option value="Brazil" >Brazil</option>
+                            </select>
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><label for="idemail">Email:</label></td>
+                        <td><input type="email" id="idemail" name="email" placeholder="sample@gmail.com" pattern="^([a-zA-Z0-9_\-\.]+)@([a-zA-Z0-9_\-\.]+)\.([a-zA-Z]{2,5})$" required></td>
+                    </tr>
+                    <tr>
+                        <td style="height: 20px;"></td>
+                    </tr>
+                    
+                    <tr>
+                        <td colspan="2"><label for="idmessage">Write us a message!</label></td>
+                    </tr>
+                    <tr>
+                        
+                        <td colspan="2"><textarea id="idmessage" name="message" rows="8" cols="50" placeholder="Write your message here..."></textarea></td>
+                        
+                    </tr>  
+                    <tr>
+                        <td><input type="submit" value="Submit"></td>
+                     </tr>                
+                </table>
+            </fieldset>
+        </form>
+    </font>
+        
+    </section>
+</center>
+</body>
+</html>
